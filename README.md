@@ -9,3 +9,5 @@ Task-2 Problem Statement:- The given ‘Iris’ dataset, predict the optimum num
 Task-3 Problem Statement: Create the Decision Tree classifier and visualize it graphically. Dataset:- https://bit.ly/3kXTdox
 
 Task-4 Problem Statement:- Exploratory Data Analysis on dataset ‘SampleSuperstore’ Dataset:- https://bit.ly/3i4rbWl
+
+Task-4 Problem Statement:- Exploratory Data Analysis on dataset ‘Global Terrorism’ Dataset:- https://bit.ly/2TK5Xn5
